@@ -7,7 +7,8 @@ system("cls")
 
 alumnos=[]
 alumnosobj=[]
-f=open("alumnoss3.csv","r")
+
+f=open("csvs7.csv","r")
 
 while True:
     
